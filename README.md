@@ -23,8 +23,10 @@ I build backend systems with Spring Boot, focusing on clean architecture and bus
 ---
 
 ### 🚀 Featured Work
-Currently working on a **Java-based Order Management System** to deepen my understanding of real backend systems.
-
+Currently building a Java-based Order Management System focused on:
+- Business-driven domain modeling
+- Clean layering and responsibility separation
+- Validation and error handling strategies
 ---
 
 ### 📫 Contact
